@@ -1,0 +1,6 @@
+# One scene per line: <type>: <text>   (lines starting with # are ignored)
+title: Hello from motion-studio | text-to-video in one command
+physics: Ideas | Code | Motion | Video
+chart: Sales | Jan=10, Feb=25, Mar=40
+logo3d: YOUR BRAND
+badge: Shipped!

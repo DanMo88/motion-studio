@@ -1,0 +1,15 @@
+{
+  "width": 1080,
+  "height": 1080,
+  "fps": 30,
+  "theme": { "background": "#120d1f", "foreground": "#fff8ee", "accent": "#ff5c8a", "accent2": "#ffc75c" },
+  "music": "demo-beat.mp3",
+  "scenes": [
+    { "type": "title", "title": "ساخت ویدیوی موشن با یک فایل ساده", "subtitle": "فارسی، راست‌به‌چپ، با فونت وزیرمتن", "duration": 3.5 },
+    { "type": "physics", "title": "فیزیک واقعی", "items": ["سلام", "موشن", "گرافیک", "متن‌باز", "رایگان"], "duration": 4 },
+    { "type": "chart", "title": "رشد فروش", "unit": "٪", "data": [
+      { "label": "فروردین", "value": 20 }, { "label": "اردیبهشت", "value": 45 }, { "label": "خرداد", "value": 70 }
+    ], "duration": 3.5 },
+    { "type": "badge", "text": "آماده شد", "duration": 2.5 }
+  ]
+}

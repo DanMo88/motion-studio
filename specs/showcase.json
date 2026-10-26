@@ -1,0 +1,15 @@
+{
+  "width": 1280,
+  "height": 720,
+  "fps": 30,
+  "music": "demo-beat.mp3",
+  "scenes": [
+    { "type": "title", "title": "Make videos from a JSON file", "subtitle": "motion-studio", "duration": 3 },
+    { "type": "physics", "title": "Physics", "items": ["React", "GSAP", "Three.js", "Lottie", "D3", "Matter.js"], "duration": 4 },
+    { "type": "chart", "title": "Any data, animated", "unit": "%", "data": [
+      { "label": "Q1", "value": 32 }, { "label": "Q2", "value": 48 }, { "label": "Q3", "value": 61 }, { "label": "Q4", "value": 87 }
+    ], "duration": 3.5 },
+    { "type": "logo3d", "label": "3D LOGOS", "duration": 3.5 },
+    { "type": "badge", "text": "Done ✓", "duration": 2.5 }
+  ]
+}
